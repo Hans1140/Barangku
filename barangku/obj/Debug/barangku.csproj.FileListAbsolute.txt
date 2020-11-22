@@ -1,0 +1,10 @@
+C:\Users\Raihan\source\repos\Login\barangku\barangku\bin\Debug\barangku.exe
+C:\Users\Raihan\source\repos\Login\barangku\barangku\bin\Debug\barangku.pdb
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.csprojAssemblyReference.cache
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.Form1.resources
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.Form2.resources
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.Properties.Resources.resources
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.csproj.GenerateResource.cache
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.csproj.CoreCompileInputs.cache
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.exe
+C:\Users\Raihan\source\repos\Login\barangku\barangku\obj\Debug\barangku.pdb
